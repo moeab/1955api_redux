@@ -1,0 +1,9 @@
+{
+	"name" : "1955api", 
+	"dependencies" : {
+		"express" : "latest", 
+		"mongoose" : "latest", 
+		"path" : "latest",
+		"body-parser" : "latest"
+	}
+}
